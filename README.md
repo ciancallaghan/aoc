@@ -1,3 +1,160 @@
 # Advent of Code
 
 Advent of Code solutions divided by year and day.
+
+- [ ] 2015 (Python)
+    - [x] Day 01
+    - [x] Day 02
+    - [x] Day 03
+    - [x] Day 04
+    - [x] Day 05
+    - [x] Day 06
+    - [x] Day 07
+    - [x] Day 08
+    - [x] Day 09
+    - [x] Day 10
+    - [x] Day 11
+    - [x] Day 12
+    - [x] Day 13
+    - [x] Day 14
+    - [x] Day 15
+    - [x] Day 16
+    - [x] Day 17
+    - [x] Day 18
+    - [x] Day 19
+    - [x] Day 20
+    - [x] Day 21
+    - [ ] Day 22
+    - [ ] Day 23
+    - [ ] Day 24
+    - [ ] Day 25
+- [ ] 2016 (Javascript)
+    - [ ] Day 01
+    - [ ] Day 02
+    - [ ] Day 03
+    - [ ] Day 04
+    - [ ] Day 05
+    - [ ] Day 06
+    - [ ] Day 07
+    - [ ] Day 08
+    - [ ] Day 09
+    - [ ] Day 10
+    - [ ] Day 11
+    - [ ] Day 12
+    - [ ] Day 13
+    - [ ] Day 14
+    - [ ] Day 15
+    - [ ] Day 16
+    - [ ] Day 17
+    - [ ] Day 18
+    - [ ] Day 19
+    - [ ] Day 20
+    - [ ] Day 21
+    - [ ] Day 22
+    - [ ] Day 23
+    - [ ] Day 24
+    - [ ] Day 25
+- [ ] 2017 (Go)
+    - [ ] Day 01
+    - [ ] Day 02
+    - [ ] Day 03
+    - [ ] Day 04
+    - [ ] Day 05
+    - [ ] Day 06
+    - [ ] Day 07
+    - [ ] Day 08
+    - [ ] Day 09
+    - [ ] Day 10
+    - [ ] Day 11
+    - [ ] Day 12
+    - [ ] Day 13
+    - [ ] Day 14
+    - [ ] Day 15
+    - [ ] Day 16
+    - [ ] Day 17
+    - [ ] Day 18
+    - [ ] Day 19
+    - [ ] Day 20
+    - [ ] Day 21
+    - [ ] Day 22
+    - [ ] Day 23
+    - [ ] Day 24
+    - [ ] Day 25
+- [ ] 2018 (PHP)
+    - [ ] Day 01
+    - [ ] Day 02
+    - [ ] Day 03
+    - [ ] Day 04
+    - [ ] Day 05
+    - [ ] Day 06
+    - [ ] Day 07
+    - [ ] Day 08
+    - [ ] Day 09
+    - [ ] Day 10
+    - [ ] Day 11
+    - [ ] Day 12
+    - [ ] Day 13
+    - [ ] Day 14
+    - [ ] Day 15
+    - [ ] Day 16
+    - [ ] Day 17
+    - [ ] Day 18
+    - [ ] Day 19
+    - [ ] Day 20
+    - [ ] Day 21
+    - [ ] Day 22
+    - [ ] Day 23
+    - [ ] Day 24
+    - [ ] Day 25
+- [ ] 2019 (C)
+    - [ ] Day 01
+    - [ ] Day 02
+    - [ ] Day 03
+    - [ ] Day 04
+    - [ ] Day 05
+    - [ ] Day 06
+    - [ ] Day 07
+    - [ ] Day 08
+    - [ ] Day 09
+    - [ ] Day 10
+    - [ ] Day 11
+    - [ ] Day 12
+    - [ ] Day 13
+    - [ ] Day 14
+    - [ ] Day 15
+    - [ ] Day 16
+    - [ ] Day 17
+    - [ ] Day 18
+    - [ ] Day 19
+    - [ ] Day 20
+    - [ ] Day 21
+    - [ ] Day 22
+    - [ ] Day 23
+    - [ ] Day 24
+    - [ ] Day 25
+- [ ] 2020 (Java)
+    - [ ] Day 01
+    - [ ] Day 02
+    - [ ] Day 03
+    - [ ] Day 04
+    - [ ] Day 05
+    - [ ] Day 06
+    - [ ] Day 07
+    - [ ] Day 08
+    - [ ] Day 09
+    - [ ] Day 10
+    - [ ] Day 11
+    - [ ] Day 12
+    - [ ] Day 13
+    - [ ] Day 14
+    - [ ] Day 15
+    - [ ] Day 16
+    - [ ] Day 17
+    - [ ] Day 18
+    - [ ] Day 19
+    - [ ] Day 20
+    - [ ] Day 21
+    - [ ] Day 22
+    - [ ] Day 23
+    - [ ] Day 24
+    - [ ] Day 25
